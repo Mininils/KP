@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <time.h>
 #include <locale.h>
 
 #define MIN_FLOOR 1  // Минимальный этаж
